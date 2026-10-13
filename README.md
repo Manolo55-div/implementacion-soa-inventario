@@ -4,7 +4,7 @@ Proyecto desarrollado para la entrega final del caso de estudio, implementando u
 
 ## Estructura del Repositorio
 - `src/server.js`: Código fuente principal del microservicio de inventario y sus contratos REST.
-- `evidence/`: Carpeta con evidencias en imagen de las pruebas de consumo de la API.
+
 
 ## Requisitos Previos
 Debes tener instalado en tu equipo:
